@@ -1,1 +1,1 @@
-Another line from MAIN branch
+Resolved line from BOTH branches
